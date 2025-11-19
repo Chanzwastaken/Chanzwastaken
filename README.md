@@ -1,18 +1,64 @@
 <h1 align="center">Hi 👋, I'm Chandra</h1>
-<h3 align="center">3X Microsoft Certified | 1X Alibaba | Informatics Engineering Student | Data Science</h3>
+<h3 align="center">Data Analyst & Aspiring Data Scientist | 4× Microsoft Certified | Alibaba Cloud Certified | Informatics Engineering Student</h3>
 
-- 📫 How to reach me **chandraabdullah00@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chandets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandets" height="30" width="40" /></a>
+<p align="center">
+International Informatics Engineering student specializing in <b>Data Science</b> with hands-on experience in <b>data analytics, machine learning, and dashboard development</b>.  
+Proficient in Power BI, Tableau, Excel, Azure ML, SQL, and Python (NumPy, Pandas, Scikit-learn, TensorFlow).  
+I’ve completed multiple internships, international programs, and hackathon achievements — all focused on turning data into meaningful insights.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanzwastaken&show_icons=true&locale=en&layout=compact" alt="chanzwastaken" /></p>
+### 📫 How to reach me
+**Email:** chandraabdullah00@gmail.com  
+**Portfolio:** https://chanzwastaken.github.io/personal-web/
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanzwastaken&show_icons=true&locale=en" alt="chanzwastaken" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanzwastaken&" alt="chanzwastaken" /></p>
+### 🔗 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/chandets" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+### 🧠 What I Do
+- Data Analytics & Dashboarding (Power BI, Tableau, Excel)
+- Machine Learning & Predictive Modeling
+- Data Cleaning, Processing, and Visualization
+- Cloud-based ML (Azure ML, Alibaba Cloud)
+- Building real-world data projects from end to end
+
+---
+
+### 🏆 Certifications
+- **Microsoft Certified:** Power BI Data Analyst Associate (PL-300)  
+- **Microsoft Certified:** Azure Data Scientist Associate (DP-100)  
+- **Microsoft Certified:** Fabric Analytics Engineer Associate (DP-600)  
+- **Microsoft Office Specialist:** Excel Associate  
+- **Alibaba Cloud Associate:** Big Data  
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanzwastaken&show_icons=true&locale=en&layout=compact" />
+</p>
