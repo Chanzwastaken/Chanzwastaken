@@ -3,7 +3,7 @@
 
 <p align="center">
 International Informatics Engineering student specializing in <b>Data Science</b> with hands-on experience in <b>data analytics, machine learning, and dashboard development</b>.  
-Proficient in Power BI, Tableau, Excel, Azure ML, SQL, and Python (NumPy, Pandas, Scikit-learn, TensorFlow).  
+Proficient in Power BI, Tableau, Excel, Azure ML, SQL, and Python.  
 I’ve completed multiple internships, international programs, and hackathon achievements — all focused on turning data into meaningful insights.
 </p>
 
