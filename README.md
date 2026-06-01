@@ -11,7 +11,7 @@ I’ve completed multiple internships, international programs, and hackathon ach
 
 ### 📫 How to reach me
 **Email:** chandraabdullah00@gmail.com  
-**Portfolio:** https://chanzwastaken.github.io/personal-web/
+**Portfolio:** chanzwastaken.vercel.app
 
 ---
 
